@@ -1,4 +1,3 @@
-<html>
 <head>
 <b>?</b>
 </head>
@@ -8,4 +7,3 @@
 <p>This is a paragraph.</p>
 
 </body>
-</html>
