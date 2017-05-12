@@ -1,8 +1,9 @@
-<head>
-<title>Canada</title>
-</head>
-<body>
+<!DOCTYPE html>
+<html>
 
+<head>
+  <title>HTML Reference</title>
+</head>
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 <h2>Less important information</h2>
