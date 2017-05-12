@@ -3,8 +3,8 @@
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 <h2>Less important information</h2>
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
+<blockquote cite="https://en.wikipedia.org/wiki/Toronto">
+Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic CN Tower.
 </blockquote>
 <ul>
   <li>Toronto is in Canada</li>
