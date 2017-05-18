@@ -1,4 +1,5 @@
 <html>
+<title>A</title>
 <br>
 <body>
 <h1>This is a Heading</h1>
